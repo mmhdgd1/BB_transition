@@ -12,5 +12,9 @@ def function_a():
     print(config.a)
 
 
-if __name__ == '__main__':
+def main():
     function_a()
+
+
+if __name__ == '__main__':
+    main()
